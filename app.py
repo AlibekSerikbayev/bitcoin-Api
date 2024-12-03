@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 import pandas as pd
-
+#uzgarish 3
 # API orqali ma'lumot olish funksiyasi
 def get_bitcoin_data(api_key):
     url = "https://api.coincap.io/v2/assets/bitcoin"
